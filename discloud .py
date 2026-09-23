@@ -1,0 +1,6 @@
+NAME=ApplyBot
+TYPE=bot
+MAIN=main.py
+RAM=100
+AUTORESTART=true
+VERSION=latest
